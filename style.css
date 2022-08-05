@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(30, 30, 30, 0.9);
+}
+h1{
+    font-size: 40px;
+    color: coral;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    border-left: 1px solid green;
+}
